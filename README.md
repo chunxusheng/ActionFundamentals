@@ -3,8 +3,6 @@
 Repo for the `GitHub Actions Fundamentals` training.
 
 test
-
-
 test2
 ## 👉 Objectives
 
